@@ -1,6 +1,6 @@
 # Grocery Price Prediction with Machine Learning
 
-Group coursework for F20DL Data Mining & Machine Learning — Heriot-Watt University (2024–25).  
+Group coursework for F20DL Data Mining & Machine Learning — Heriot-Watt University.  
 5-person team. **My contribution: linear regression implemented from scratch (`Linear_Regression_Model.py`) and the data preprocessing pipeline.**
 
 Predicts Tesco grocery prices per 100g using nutritional information (calories, fat, carbohydrates, sugars, fibre, protein, salt). Four models were implemented and compared across the team.
