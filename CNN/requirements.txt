@@ -1,0 +1,8 @@
+tensorflow
+matplotlib
+numpy
+pandas
+requests
+Pillow
+scikit-learn
+tqdm
